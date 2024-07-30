@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de5e3a9f-f07e-48b1-b03c-722adf1a503d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3fb5d15-9f22-4b39-8690-0fa360e05584</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Clienti activi pe locatie sintetic'</defaultValue>
+      <description></description>
+      <id>c3fb5d15-9f22-4b39-8690-0fa360e05584</id>
+      <masked>false</masked>
+      <name>reportName</name>
+   </variable>
+</TestCaseEntity>

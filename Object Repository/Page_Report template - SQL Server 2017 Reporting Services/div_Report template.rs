@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Report template</name>
+   <tag></tag>
+   <elementGuidId>76867a83-5a0e-4ed4-a74f-dd1797126ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-label = 'Report text' and (text() = 'Report template' or . = 'Report template')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Adb7478b05c2c4d74bc69b273271a92df9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='P7bc16785f52145d191c9c12aa2381895_1_oReportCell']/table/tbody/tr/td/table/tbody/tr[4]/td/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3be3f763-1f54-45fc-b4f7-6f10528b4dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>navigation</value>
+      <webElementGuid>48b37934-6bd0-4a68-9144-049a60e9d6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Report text</value>
+      <webElementGuid>3fbf73af-3a47-4e08-9525-e108d7978cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Adb7478b05c2c4d74bc69b273271a92df9</value>
+      <webElementGuid>dc97b981-5747-40e3-b392-2c92b49e4d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report template</value>
+      <webElementGuid>b96ab49c-1725-4291-91cb-0f5d68f3df4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P7bc16785f52145d191c9c12aa2381895_1_oReportCell&quot;)/table[@class=&quot;Adb7478b05c2c4d74bc69b273271a92df56xB&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;P7bc16785f52145d191c9c12aa2381895_1_r10&quot;]/tbody[1]/tr[4]/td[1]/div[@class=&quot;Adb7478b05c2c4d74bc69b273271a92df9&quot;]</value>
+      <webElementGuid>b462e44c-6d53-419b-af6a-d7550d093afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Report template - SQL Server 2017 Reporting Services/iframe_Report template_viewer</value>
+      <webElementGuid>cffb9d3f-03a3-4b20-ba1e-fabe6460d14f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report executed successfully'])[1]/following::div[1]</value>
+      <webElementGuid>743b2e4d-636f-4cf8-9396-cb8c58acf8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❌'])[1]/following::div[10]</value>
+      <webElementGuid>f178bd40-12d3-49f2-b09f-fc9c15ea9615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UserID'])[1]/preceding::div[2]</value>
+      <webElementGuid>85cf5d02-858e-4e8c-8873-5fbc00d36149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr[4]/td/div</value>
+      <webElementGuid>e42ae1af-ee4e-4738-9a0a-9f0b82dead11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Report template' or . = 'Report template')]</value>
+      <webElementGuid>1f390612-0f06-4b2c-94ec-9a962abef9a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

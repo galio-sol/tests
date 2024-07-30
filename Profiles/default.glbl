@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Administrator'</initValue>
+      <name>BT_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Qq12345678.'</initValue>
+      <name>BT_PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('PASSWORD') : 'Qq12345678.', ('USER') : 'Administrator']</initValue>
+      <name>BT</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
